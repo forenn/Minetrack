@@ -1,12 +1,17 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "KrabMC",
+		"ip": "krabmc.pl",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "POWERMC",
+		"ip": "powermc.pl",
+		"type": "PC"
+	},
+	{
+		"name": "LOREMC",
+		"ip": "loremc.pl",
 		"type": "PC"
 	}
 ]
